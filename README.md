@@ -30,7 +30,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> About Me
 
-I'm a **Final-Year B.Tech student** specializing in **Artificial Intelligence & Data Science** at **ICFAI Tech Hyderabad** (CGPA: 7.28). Currently working as an **AI Intern at VISWAM AI, IIIT Hyderabad**, where I build LLM-powered applications and RAG pipelines.
+I'm a **Final-Year B.Tech student** specializing in **Artificial Intelligence & Data Science** at **ICFAI Tech Hyderabad**. Currently working as an **AI Intern at VISWAM AI, IIIT Hyderabad**, where I build LLM-powered applications and RAG pipelines.
 
 - 🚀 Building AI applications that solve real-world problems.
 - 🤖 Working with **LLMs, RAG Pipelines, Prompt Engineering, and AI Workflow Automation**.
@@ -138,20 +138,20 @@ I'm a **Final-Year B.Tech student** specializing in **Artificial Intelligence & 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20with%20Upwards%20Trend.png" width="28" /> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KOUSHIK1831&show_icons=true&theme=tokyonight&count_private=true&bg_color=0D1117&border_color=58A6FF&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOUSHIK1831&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=58A6FF&title_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KOUSHIK1831&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOUSHIK1831&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KOUSHIK1831&theme=tokyonight&border=58A6FF&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF9100&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KOUSHIK1831&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF9100&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="96%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KOUSHIK1831&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&border_color=58A6FF" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KOUSHIK1831&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true" width="95%" />
 </div>
 
 <br/>
@@ -159,7 +159,7 @@ I'm a **Final-Year B.Tech student** specializing in **Artificial Intelligence & 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KOUSHIK1831&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KOUSHIK1831&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
 
 <br/>
