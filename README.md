@@ -35,6 +35,26 @@ My work includes AI-assisted commerce, document-grounded question answering, agr
 - **Development:** TypeScript, JavaScript, React, Node.js, REST APIs.
 - **Tools and platforms:** Git, GitHub, PostgreSQL, Docker, cloud services.
 
+## Working approach
+
+My projects emphasize a few recurring engineering practices:
+documented setups, reviewable changes, and clear separation between
+implemented features and experiments. The public repositories above
+include full-stack applications, agent prompts, RAG systems, and
+notebooks, each with its own setup instructions.
+
+If you're exploring a project, start with its README, verify the
+required environment variables, and review its source and tests.
+Prototypes and research notebooks should not be treated as
+production deployments without further validation.
+
+## Areas for collaboration
+
+I'm interested in practical software and AI projects involving
+retrieval and search, multilingual interfaces, developer tooling,
+and real-world product workflows. Relevant project repositories
+are linked above for technical details and issues.
+
 ## Connect
 
 For projects, collaborations, or questions, find me on [LinkedIn](https://www.linkedin.com/in/koushik-reddy-banuri-694543306), explore my [portfolio](https://koushikreddy-portfolio.vercel.app/), or browse my [GitHub repositories](https://github.com/KOUSHIK1831?tab=repositories).
