@@ -1,60 +1,21 @@
-<div align="center">
+<p align="center"><img src="assets/intro.svg?v=1" width="720" alt="Banuri Koushik Reddy (@KOUSHIK1831). I build practical AI tools and full-stack software. AI Engineer · Software Developer · Open-Source Contributor · Data Science Graduate."></p>
 
-# Banuri Koushik Reddy
+B.Tech in Data Science and Artificial Intelligence. I'm interested in collaborating on search and retrieval, multilingual interfaces, and developer tools.
 
-**AI Engineer · Software Developer · Open-Source Contributor**
+<p align="center"><img src="assets/right-now.svg?v=1" width="720" alt="Right now — Building CampusGuide, learning hybrid retrieval, and reading RAG evaluation guides."></p>
 
-Building practical AI applications, retrieval-augmented generation systems, and full-stack software.
+<p align="center"><img src="assets/toolkit.svg?v=1" width="720" alt="Toolkit — Languages: Python, TypeScript, JavaScript, SQL · AI &amp; data: RAG, LangChain, FAISS, pandas · Web &amp; API: React, Next.js, FastAPI, Node.js · Build &amp; test: PostgreSQL, Docker, Git, Pytest"></p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?logo=github)](https://github.com/KOUSHIK1831?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/koushik-reddy-banuri-694543306)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-000?logo=vercel)](https://koushikreddy-portfolio.vercel.app/)
-
-</div>
-
-## About me
-
-I'm a computer science graduate focused on building and improving AI-powered products. My interests include **LLMs, retrieval-augmented generation, multimodal workflows, full-stack development, and cloud services**.
-
-My work includes AI-assisted commerce, document-grounded question answering, agricultural data exploration, and applied machine-learning experiments.
+<p align="center"><img src="assets/card.svg?v=1" width="720" alt="Trading card — Former AI Intern at Viswam AI. Mentored 4 hackathon teams. Added 7 languages to a RAG UI. Earned Grade A at 3ZEN."></p>
 
 ## Featured projects
 
-| Project | What it explores |
+| Project | What it does |
 | --- | --- |
-| [SnapShop AI](https://github.com/KOUSHIK1831/SnapShop-AI) | AI-assisted product digitization, digital storefronts, seller workflows, and commerce |
-| [CampusGuide](https://github.com/KOUSHIK1831/CampusGuide) | Document Q&A with Groq, FAISS, and source-cited RAG |
-| [Agri-Tech Dashboard](https://github.com/KOUSHIK1831/Agri-Tech-Dashboard) | Multilingual agricultural prices, charts, search, and AI assistance |
-| [Collision Guard](https://github.com/KOUSHIK1831/Collision-Guard-Autonomous-Vehicle-Risk-Prediction) | Imbalanced classification for synthetic vehicle telemetry |
-| [Continuous Data Profiling](https://github.com/KOUSHIK1831/Continuous-Data-Profiling-For-Interactive-Data-Science) | Housing-data modeling, profiling, and drift monitoring |
-| [Debugger](https://github.com/KOUSHIK1831/Debugger) | Read-only coding-agent prompt with ranked, reviewable fixes |
+| [SnapShop AI](https://github.com/KOUSHIK1831/SnapShop-AI) | Drafts product listings from photos for seller review. |
+| [CampusGuide](https://github.com/KOUSHIK1831/CampusGuide) | Answers questions about uploaded documents with source citations. |
+| [Agri-Tech Dashboard](https://github.com/KOUSHIK1831/Agri-Tech-Dashboard) | Explores commodity prices with charts and multilingual search. |
 
-## Technical interests
+<p align="center"><img src="assets/say-hi.svg?v=1" width="720" alt="Say hi — Koushik waves next to GitHub, LinkedIn, and Portfolio cards."></p>
 
-- **AI and data:** Python, LLM integration, RAG, vector search, machine learning.
-- **Development:** TypeScript, JavaScript, React, Node.js, REST APIs.
-- **Tools and platforms:** Git, GitHub, PostgreSQL, Docker, cloud services.
-
-## Working approach
-
-My projects emphasize a few recurring engineering practices:
-documented setups, reviewable changes, and clear separation between
-implemented features and experiments. The public repositories above
-include full-stack applications, agent prompts, RAG systems, and
-notebooks, each with its own setup instructions.
-
-If you're exploring a project, start with its README, verify the
-required environment variables, and review its source and tests.
-Prototypes and research notebooks should not be treated as
-production deployments without further validation.
-
-## Areas for collaboration
-
-I'm interested in practical software and AI projects involving
-retrieval and search, multilingual interfaces, developer tooling,
-and real-world product workflows. Relevant project repositories
-are linked above for technical details and issues.
-
-## Connect
-
-For projects, collaborations, or questions, find me on [LinkedIn](https://www.linkedin.com/in/koushik-reddy-banuri-694543306), explore my [portfolio](https://koushikreddy-portfolio.vercel.app/), or browse my [GitHub repositories](https://github.com/KOUSHIK1831?tab=repositories).
+[GitHub](https://github.com/KOUSHIK1831) · [LinkedIn](https://www.linkedin.com/in/koushik-reddy-banuri) · [Portfolio](https://koushikreddy-portfolio.vercel.app)
