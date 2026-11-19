@@ -1,21 +1,79 @@
-<p align="center"><img src="assets/intro.svg?v=1" width="720" alt="Banuri Koushik Reddy (@KOUSHIK1831). I build practical AI tools and full-stack software. AI Engineer · Software Developer · Open-Source Contributor · Data Science Graduate."></p>
+### Hi there 👋 I'm Banuri Koushik Reddy
 
-B.Tech in Data Science and Artificial Intelligence. I'm interested in collaborating on search and retrieval, multilingual interfaces, and developer tools.
+- 🔭 I'm currently working as an **AI Intern at VISWAM AI, IIIT Hyderabad**, focusing on **Large Language Models, RAG Pipelines and AI Automation**.
+- 🌱 I'm currently exploring **Agentic AI, Multimodal AI, Cloud Technologies and Full Stack AI Development**.
+- 👯 I'm looking to collaborate on **Generative AI, LLM and Open Source projects**.
+- 💬 Talk to me about **AI, Machine Learning, Cloud Computing, Gadgets, Memes, Movies and Tech in general**.
+- 📫 How to reach me: **koushikreddybanuri@gmail.com**
+- ⚡ Fun fact: **I love building AI-powered applications that solve real-world problems.**
 
-<p align="center"><img src="assets/right-now.svg?v=1" width="720" alt="Right now — Building CampusGuide, learning hybrid retrieval, and reading RAG evaluation guides."></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/>
+  </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+</p>
 
-<p align="center"><img src="assets/toolkit.svg?v=1" width="720" alt="Toolkit — Languages: Python, TypeScript, JavaScript, SQL · AI &amp; data: RAG, LangChain, FAISS, pandas · Web &amp; API: React, Next.js, FastAPI, Node.js · Build &amp; test: PostgreSQL, Docker, Git, Pytest"></p>
-
-<p align="center"><img src="assets/card.svg?v=1" width="720" alt="Trading card — Former AI Intern at Viswam AI. Mentored 4 hackathon teams. Added 7 languages to a RAG UI. Earned Grade A at 3ZEN."></p>
-
-## Featured projects
-
-| Project | What it does |
-| --- | --- |
-| [SnapShop AI](https://github.com/KOUSHIK1831/SnapShop-AI) | Drafts product listings from photos for seller review. |
-| [CampusGuide](https://github.com/KOUSHIK1831/CampusGuide) | Answers questions about uploaded documents with source citations. |
-| [Agri-Tech Dashboard](https://github.com/KOUSHIK1831/Agri-Tech-Dashboard) | Explores commodity prices with charts and multilingual search. |
-
-<p align="center"><img src="assets/say-hi.svg?v=1" width="720" alt="Say hi — Koushik waves next to GitHub, LinkedIn, and Portfolio cards."></p>
-
-[GitHub](https://github.com/KOUSHIK1831) · [LinkedIn](https://www.linkedin.com/in/koushik-reddy-banuri) · [Portfolio](https://koushikreddy-portfolio.vercel.app)
+<hr>
+<p align="center">
+   <i>"Always interested in learning, building, and contributing to impactful AI products."</i>
+   <br>
+   <i>Building intelligent systems that matter, one model at a time.</i>
+   <br>
+<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/koushik-reddy-banuri-694543306" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:koushikreddybanuri@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://code.swecha.org/koushik_18" target="_blank">
+    <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white" />
+  </a>
+  <a href="https://koushik-portfolio-kappa.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
